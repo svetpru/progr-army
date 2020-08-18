@@ -1,9 +1,7 @@
 
-alert("Выпрями спину!")
 
+function game (event){
+    console.log(event);
+}
 
-
-
-
-
-
+document.addEventListener("keyup", game);

@@ -1,7 +1,36 @@
 
-#box{
-background-color: red;
-height: 150px;
-width: 150px;
-margin-left: 30%;
+
+#p1{
+    display: inline-block;
+    background-color: red;
+    margin-left: 15%;
+    width: 150px;
+    height: 100px;
 }
+
+#p2{
+    display: inline-block;
+    background-color: blue;
+    margin-left: 50%;
+    width: 150px;
+    height: 100px;
+}
+
+div{
+    position: absolute;
+    bottom: 0%;
+}
+
+
+#txtD{
+    margin-left: 40%;
+    width: 100px;
+    height: 50px;
+}
+
+#btnD{
+    margin-left: 0%;
+    width: 100px;
+    height: 50px;
+}
+
